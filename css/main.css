@@ -1,0 +1,230 @@
+body {
+font-size:100%;
+font-family:Georgia, Times New Roman;
+background: url(../images/background_tile.png) repeat-x fixed 100% 0;
+}
+
+section, article, header, footer {
+}
+
+header {
+margin:12px auto;
+width:960px;
+}
+
+header img {
+margin:auto;
+}
+
+header .logo_container {
+border-style:solid;
+border-width:1px;
+border-color: #cacaca;
+background-color:#fff;
+padding:5px;
+width:464px;
+margin:auto;
+height:131px;
+box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-moz-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-webkit-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+header .logo_container .bg_holder {
+background: url(../images/logo_image_highlight.png);
+width:464px;
+height:131px;
+margin:auto;
+}
+
+header .logo_container .bg_holder a:hover img {
+opacity:0.0;
+transition: opacity 0.3s ease;
+-webkit-transition: opacity 0.3s ease;
+-moz-transition: opacity 0.3s ease;
+-o-transition: opacity 0.3s ease;
+}
+
+section {
+margin:auto;
+width:962px;
+}
+
+section .container474x216 {
+border-style:solid;
+border-width:1px;
+border-color: #cacaca;
+background-color:#fff;
+padding:5px;
+width:464px;
+margin:auto;
+height:206px;
+box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-moz-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-webkit-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+section .container474x216 .bg_holder {
+background: url(../images/bg_474.png) repeat-y;
+height:206px;
+width:464px;
+margin:auto;
+}
+
+section .container474x570 {
+border-style:solid;
+border-width:1px;
+border-color: #cacaca;
+background-color:#fff;
+padding:5px;
+width:464px;
+margin:auto;
+height:560px;
+box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-moz-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-webkit-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+section .container474x570 .bg_holder {
+background: url(../images/bg_474.png) repeat-y;
+height:560px;
+width:464px;
+margin:auto;
+}
+
+section .container474x700 {
+border-style:solid;
+border-width:1px;
+border-color: #cacaca;
+background-color:#fff;
+padding:5px;
+width:464px;
+margin:auto;
+height:700px;
+box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-moz-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-webkit-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+section .container474x700 .bg_holder {
+background: url(../images/bg_474.png) repeat-y;
+height:700px;
+width:464px;
+margin:auto;
+}
+
+section .info_button {
+position:relative;
+height:36px;
+width:448px;
+top:18px;
+left:8px;
+}
+
+section .container474x216 .bg_holder .info_button a:hover img {
+opacity:0.8;
+}
+
+section .container231x200 {
+float:left;
+width:231px;
+height:200px;
+background-color:#fff;
+border-style:solid;
+border-color:#cacaca;
+border-width:1px;
+margin:0px 10px 0px 0px;
+box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-moz-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-webkit-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+section .container231x200_last {
+float:left;
+width:231px;
+height:200px;
+background-color:#fff;
+border-style:solid;
+border-color:#cacaca;
+border-width:1px;
+margin:0px 0px 0px 0px;
+box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-moz-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+-webkit-box-shadow:0px 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+section .container231x200 .bg_holder1 {
+background: url(../images/info1.png) no-repeat;
+height:190px;
+width:221px;
+margin:4px auto;
+}
+
+section .container231x200 .bg_holder2 {
+background: url(../images/info2b.png) no-repeat;
+height:190px;
+width:221px;
+margin:4px auto;
+}
+
+section .container231x200 .bg_holder2 a:hover img {
+opacity:0.0;
+transition: opacity 0.3s ease;
+-webkit-transition: opacity 0.3s ease;
+-moz-transition: opacity 0.3s ease;
+-o-transition: opacity 0.3s ease;
+
+}
+
+section .container231x200 .bg_holder3 {
+background: url(../images/info3.png) no-repeat;
+height:190px;
+width:221px;
+margin:4px auto;
+}
+
+section .container231x200_last .bg_holder4 {
+background: url(../images/info4.png) no-repeat;
+height:190px;
+width:221px;
+margin:4px auto;
+}
+
+section .container231x200 .bg_holder1 img {
+position:relative;
+top:149px;
+left:6px;
+}
+
+section .container231x200 .bg_holder1 a:hover img {
+opacity:0.8;
+}
+
+footer {
+border-color:#000;
+width:960px;
+margin:10px auto;
+text-align: center;
+color:#000
+}
+
+footer ul {
+font-family:Helvetica;
+font-size:80%;
+color:#c0c0c0;
+}
+
+footer ul li {
+display:inline;
+margin:0px 5px;
+}
+
+footer ul li a {
+text-decoration:none;
+color:#c0c0c0;
+}
+
+footer ul li a:hover {
+text-decoration:none;
+color:#a0a0a0;
+}
